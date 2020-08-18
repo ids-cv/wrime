@@ -20,4 +20,4 @@
 - 梶原 智之（大阪大学 データビリティフロンティア機構 特任助教）
 - 中島 悠太（大阪大学 データビリティフロンティア機構 准教授）
 
-{kajiwara, n-yuta} @ids.osaka-u.ac.jp
+sentiment-dataset *at* is.ids.osaka-u.ac.jp
