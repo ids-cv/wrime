@@ -28,8 +28,8 @@
 
 ## 連絡先
 
-- 梶原 智之（愛媛大学 大学院理工学研究科 助教）
-- 中島 悠太（大阪大学 データビリティフロンティア機構 准教授）
+- [梶原 智之](https://sites.google.com/site/moguranosenshi/)（愛媛大学 大学院理工学研究科 助教）
+- [中島 悠太](https://www.n-yuta.jp/)（大阪大学 データビリティフロンティア機構 准教授）
 
 sentiment-dataset *at* is.ids.osaka-u.ac.jp
 
