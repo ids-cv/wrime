@@ -1,4 +1,4 @@
-# 主観と客観の感情分析データセット
+# WRIME: 主観と客観の感情分析データセット
 
 感情分析の研究のために、テキストの筆者の感情を注釈付けしたデータセットを構築しました。<br>
 本データセットの特徴は、以下の3点です。
@@ -20,12 +20,20 @@
 |客観B|0|2|0|2|0|0|0|0|
 |客観C|0|2|0|2|0|1|1|0|
 
-## 関連論文
+## 文献情報
 
 - Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations. In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), 2021. (to appear)
 - 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. 主観感情と客観感情の強度推定のための日本語データセット. 言語処理学会第27回年次大会, pp.523-527, 2021.
 
 本データセットを研究で利用された場合、論文情報をご連絡いただきましたらここに掲載させていただきます。
+
+## 謝辞
+
+本研究は、文部科学省によるSociety 5.0実現化研究拠点支援事業（グラント番号: JPMXP0518071489）の助成を受けたものです。
+
+## ライセンス
+
+本データセットは研究目的で利用可能です。再配布はご遠慮ください。
 
 ## 連絡先
 
