@@ -1,4 +1,4 @@
-# WRIME: 主観と客観の感情分析データセット
+# WRIME: 主観と客観の感情分析データセット [[English]](https://github.com/ids-cv/wrime/blob/master/README.en.md)
 
 感情分析の研究のために、テキストの筆者の感情を注釈付けしたデータセットを構築しました。<br>
 本データセットの特徴は、以下の3点です。
