@@ -22,14 +22,14 @@
 
 ## 文献情報
 
-- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations. In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), 2021. (to appear)
+- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. [WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/) In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
 - 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. [主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf) 言語処理学会第27回年次大会, pp.523-527, 2021.
 
 本データセットを研究で利用された場合、論文情報をご連絡いただきましたらここに掲載させていただきます。
 
 ## 謝辞
 
-本研究は、文部科学省によるSociety 5.0実現化研究拠点支援事業（グラント番号: JPMXP0518071489）の助成を受けたものです。
+本研究は、文部科学省による[Society 5.0 実現化研究拠点支援事業](https://www.ids.osaka-u.ac.jp/ildi/index.html)（グラント番号: JPMXP0518071489）の助成を受けたものです。
 
 ## ライセンス
 

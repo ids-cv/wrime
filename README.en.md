@@ -24,12 +24,13 @@ Text: タイヤがパンクしてた。。いたずらの可能性が高いん�
 A list of known publications that use WRIME is shown below.
 If you know more, please let us know.
 
-- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations. In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), 2021. (to appear)
+- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. [WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/) In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
 - 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. [主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf) 言語処理学会第27回年次大会, pp.523-527, 2021.
+
 
 ## Acknowledgments
 
-This work was supported by Innovation Platform for Society 5.0 from Japan Ministry of Education, Culture, Sports, Science and Technology.
+This work was supported by [Innovation Platform for Society 5.0](https://www.ids.osaka-u.ac.jp/ildi/en/index.html) from Japan Ministry of Education, Culture, Sports, Science and Technology.
 
 
 ## Licence
