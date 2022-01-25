@@ -1,29 +1,33 @@
 # WRIME: 主観と客観の感情分析データセット [[English]](https://github.com/ids-cv/wrime/blob/master/README.en.md)
 
-感情分析の研究のために、テキストの筆者の感情を注釈付けしたデータセットを構築しました。<br>
-本データセットの特徴は、以下の3点です。
+日本語の感情分析の研究のために、以下の特徴を持つデータセットを構築しました。
 
 - 主観（テキストの筆者1人）と客観（クラウドワーカ3人）の両方の立場から感情ラベルを付与しました。
-- 8種類の多様な感情（喜び、悲しみ、期待、驚き、怒り、恐れ、嫌悪、信頼）を扱いました。
+- Plutchikの基本8感情（喜び、悲しみ、期待、驚き、怒り、恐れ、嫌悪、信頼）を扱いました。
 - 各感情の強度を4段階（0:無、1:弱、2:中、3:強）でラベル付けしました。
+- Ver.2では、感情極性（-2:強いネガティブ、-1:ネガティブ、0:ニュートラル、1:ポジティブ、2:強いポジティブ）も追加しました。
 
-80人の筆者から収集した43,200件の投稿に感情強度をラベル付けして公開中です。
+## 更新履歴
+
+- Ver.2: 60人の筆者から収集した35,000件の投稿に感情強度と感情極性をラベル付けして公開中です。
+- Ver.1: 80人の筆者から収集した43,200件の投稿に感情強度をラベル付けして公開中です。
 
 ## テキストとラベルの例
 
-投稿：タイヤがパンクしてた。。いたずらの可能性が高いんだって。。
+投稿：車のタイヤがパンクしてた。。いたずらの可能性が高いんだって。。
 
-||喜び|悲しみ|期待|驚き|怒り|恐れ|嫌悪|信頼|
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|主観 |0|3|0|1|3|0|0|0|
-|客観A|0|3|0|3|1|2|1|0|
-|客観B|0|2|0|2|0|0|0|0|
-|客観C|0|2|0|2|0|1|1|0|
+||喜び|悲しみ|期待|驚き|怒り|恐れ|嫌悪|信頼|感情極性|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|主観 |0|3|0|1|3|0|0|0|0|
+|客観A|0|3|0|3|1|2|1|0|-1|
+|客観B|0|2|0|2|0|0|0|0|-1|
+|客観C|0|2|0|2|0|1|1|0|-2|
 
 ## 文献情報
 
-- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. [WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/) In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
-- 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. [主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf) 言語処理学会第27回年次大会, pp.523-527, 2021.
+- 宮内裕人, 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. **主観と客観の感情極性分類のための日本語データセット.** 言語処理学会第28回年次大会, 2022.
+- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. **[WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/)** In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
+- 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. **[主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf)** 言語処理学会第27回年次大会, pp.523-527, 2021.
 
 本データセットを研究で利用された場合、論文情報をご連絡いただきましたらここに掲載させていただきます。
 

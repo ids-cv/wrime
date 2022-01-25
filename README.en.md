@@ -2,21 +2,26 @@
 
 We annotated SNS posts with emotional intensity to construct a Japanese emotion analysis dataset.
 
-- We provide both subjective (i.e. based on what the writer feels), and objective (i.e. based on what humans and other machines think that the writer feels) annotations.
+- We provide both subjective (i.e. based on what the writer feels) and objective (i.e. based on what humans and other machines think that the writer feels) annotations.
 - Annotations follow Plutchik’s 8-category emotion schema on a 4-point intensity scale (0:no, 1:weak, 2:medium, and 3:strong).
-- We annotate 43,200 Japanese posts from 80 crowdsourced workers.
+- In Ver.2, we also annotate sentiment polarity (-2: Strong Negative, -1: Negative, 0: Neutral, 1: Positive, 2: Strong Positive).
+
+## Change Log
+
+- Ver.2: We annotate 35,000 Japanese posts from 60 crowdsourced workers with both emotional intensity and sentiment polarity.
+- Ver.1: We annotate 43,200 Japanese posts from 80 crowdsourced workers with emotional intensity.
 
 ## Examples
 
-Text: タイヤがパンクしてた。。いたずらの可能性が高いんだって。。<br>
+Text: 車のタイヤがパンクしてた。。いたずらの可能性が高いんだって。。<br>
 (The tire of my car was flat. I heard that it might be mischief.)
 
-||Joy|Sadness|Anticipation|Surprise|Anger|Fear|Disgust|Trust|
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Writer  |0|3|0|1|3|0|0|0|
-|Reader 1|0|3|0|3|1|2|1|0|
-|Reader 2|0|2|0|2|0|0|0|0|
-|Reader 3|0|2|0|2|0|1|1|0|
+||Joy|Sadness|Anticipation|Surprise|Anger|Fear|Disgust|Trust|Sentiment Polarity|
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Writer  |0|3|0|1|3|0|0|0|0|
+|Reader 1|0|3|0|3|1|2|1|0|-1|
+|Reader 2|0|2|0|2|0|0|0|0|-1|
+|Reader 3|0|2|0|2|0|1|1|0|-2|
 
 
 ## Research with WRIME
@@ -24,8 +29,9 @@ Text: タイヤがパンクしてた。。いたずらの可能性が高いん�
 A list of known publications that use WRIME is shown below.
 If you know more, please let us know.
 
-- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. [WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/) In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
-- 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. [主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf) 言語処理学会第27回年次大会, pp.523-527, 2021.
+- 宮内裕人, 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. **主観と客観の感情極性分類のための日本語データセット.** 言語処理学会第28回年次大会, 2022.
+- Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. **[WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/)** In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
+- 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. **[主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf)** 言語処理学会第27回年次大会, pp.523-527, 2021.
 
 
 ## Acknowledgments
