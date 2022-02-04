@@ -8,7 +8,7 @@ We annotated SNS posts with emotional intensity to construct a Japanese emotion 
 
 ## Change Log
 
-- Ver.2: We annotate 35,000 Japanese posts from 60 crowdsourced workers with both emotional intensity and sentiment polarity.
+- Ver.2: We annotate 35,000 Japanese posts from 60 crowdsourced workers (a subset of Ver.1) with both emotional intensity and sentiment polarity.
 - Ver.1: We annotate 43,200 Japanese posts from 80 crowdsourced workers with emotional intensity.
 
 ## Examples
