@@ -8,6 +8,7 @@ We annotated SNS posts with emotional intensity to construct a Japanese emotion 
 
 ## Change Log
 
+- Thanks to [@shunk031](https://github.com/shunk031), WRIME is now available on the [HuggingFace Datasets Hub](https://huggingface.co/datasets/shunk031/wrime).
 - Ver.2: We annotate 35,000 Japanese posts from 60 crowdsourced workers (a subset of Ver.1) with both emotional intensity and sentiment polarity.
 - Ver.1: We annotate 43,200 Japanese posts from 80 crowdsourced workers with emotional intensity.
 
