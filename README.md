@@ -9,7 +9,7 @@
 
 ## 更新履歴
 
-- [@shunk031](https://github.com/shunk031) さんが本データセットを [HuggingFace Datasets Hub](https://huggingface.co/datasets/shunk031/wrime) に登録してくださいました。
+- [@shunk031](https://github.com/shunk031) さんが本データセットを [Hugging Face Datasets Hub](https://huggingface.co/datasets/shunk031/wrime) に登録してくださいました。
 - Ver.2: 60人の筆者から収集した35,000件の投稿（Ver.1のサブセット）に感情極性を追加でラベル付けしました。
 - Ver.1: 80人の筆者から収集した43,200件の投稿に感情強度をラベル付けしました。
 
