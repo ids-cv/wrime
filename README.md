@@ -26,6 +26,9 @@
 
 ## 文献情報
 
+- 近藤里咲, 寺面杏優, 梶川怜恩, 堀口航輝, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[テキスト正規化による日本語感情分析の性能改善.](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)** 人工知能学会第38回全国大会, 2024.
+- 鈴木陽也, 山内洋輝, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[書き手の複数投稿を用いた感情分析.](https://doi.org/10.11517/pjsai.JSAI2024.0_3Xin2104)** 人工知能学会第38回全国大会, 2024.
+- 近藤里咲, 大塚琢生, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[大規模言語モデルによる日本語感情分析の性能評価.](https://moguranosenshi.sakura.ne.jp/publications/ipsj86-kondo.pdf)** 情報処理学会第86回全国大会, pp.859-860, 2024.
 - Haruya Suzuki, Sora Tarumoto, Tomoyuki Kajiwara, Takashi Ninomiya, Yuta Nakashima, Hajime Nagahara. **[Emotional Intensity Estimation based on Writer’s Personality.](https://aclanthology.org/2022.aacl-srw.1/)** In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing: Student Research Workshop (AACL-SRW 2022), pp.1-7, 2022.
 - 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. **[書き手の性格情報を用いた感情強度推定.](https://doi.org/10.11517/pjsai.JSAI2022.0_4D3GS604)** 人工知能学会第36回全国大会, 2022.
 - Haruya Suzuki, Yuto Miyauchi, Kazuki Akiyama, Tomoyuki Kajiwara, Takashi Ninomiya, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. **[A Japanese Dataset for Subjective and Objective Sentiment Polarity Classification in Micro Blog Domain.](https://aclanthology.org/2022.lrec-1.759/)** In Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7022-7028, 2022.
@@ -41,12 +44,12 @@
 
 ## ライセンス
 
-本データセットは研究目的で利用可能です。再配布はご遠慮ください。
+[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## 連絡先
 
-- [梶原 智之](https://sites.google.com/site/moguranosenshi/)（愛媛大学 大学院理工学研究科 助教）
-- [中島 悠太](https://www.n-yuta.jp/)（大阪大学 データビリティフロンティア機構 准教授）
+- [梶原 智之](https://sites.google.com/site/moguranosenshi/)（愛媛大学 大学院理工学研究科 講師）
+- [中島 悠太](https://www.n-yuta.jp/)（大阪大学 D3センター 教授）
 
 sentiment-dataset *at* is.ids.osaka-u.ac.jp
 
