@@ -44,7 +44,7 @@
 
 ## ライセンス
 
-[CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## 連絡先
 
