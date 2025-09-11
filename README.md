@@ -26,13 +26,16 @@
 
 ## 文献情報
 
-- 近藤里咲, 寺面杏優, 梶川怜恩, 堀口航輝, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[テキスト正規化による日本語感情分析の性能改善.](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)** 人工知能学会第38回全国大会, 2024.
+- **【奨励賞】** 近藤里咲, 寺面杏優, 堀口航輝, 梶川怜恩, 鈴木陽也, 宮内裕人, 山内洋輝, 秋山和輝, 梶原智之, 二宮崇, Chenhui Chu, 武村紀子, 早志英朗, 中島悠太, 長原一. **[日本語SNSのためのテキスト正規化および感情分析のデータセット.](https://moguranosenshi.sakura.ne.jp/publications/fit2025-kondo.pdf)** 第24回情報科学技術フォーラム, pp.277-284, 2025.
+- Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara. **[Text Normalization for Japanese Sentiment Analysis.](https://aclanthology.org/2025.wnut-1.16/)** In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.149-157, 2025.
+- 花房健太郎, 前川大輔, 梶原智之. **[大規模言語モデルによる書き手の情報を考慮した感情分析.](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-hanafusa.pdf)** 情報処理学会第87回全国大会, pp.277-278, 2025. 
+- **【優秀賞】** 近藤里咲, 寺面杏優, 梶川怜恩, 堀口航輝, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[テキスト正規化による日本語感情分析の性能改善.](https://doi.org/10.11517/pjsai.JSAI2024.0_4Xin212)** 人工知能学会第38回全国大会, 2024.
 - 鈴木陽也, 山内洋輝, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[書き手の複数投稿を用いた感情分析.](https://doi.org/10.11517/pjsai.JSAI2024.0_3Xin2104)** 人工知能学会第38回全国大会, 2024.
-- 近藤里咲, 大塚琢生, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[大規模言語モデルによる日本語感情分析の性能評価.](https://moguranosenshi.sakura.ne.jp/publications/ipsj86-kondo.pdf)** 情報処理学会第86回全国大会, pp.859-860, 2024.
+- **【学生奨励賞】** 近藤里咲, 大塚琢生, 梶原智之, 二宮崇, 早志英朗, 中島悠太, 長原一. **[大規模言語モデルによる日本語感情分析の性能評価.](https://moguranosenshi.sakura.ne.jp/publications/ipsj86-kondo.pdf)** 情報処理学会第86回全国大会, pp.859-860, 2024.
 - Haruya Suzuki, Sora Tarumoto, Tomoyuki Kajiwara, Takashi Ninomiya, Yuta Nakashima, Hajime Nagahara. **[Emotional Intensity Estimation based on Writer’s Personality.](https://aclanthology.org/2022.aacl-srw.1/)** In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing: Student Research Workshop (AACL-SRW 2022), pp.1-7, 2022.
 - 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. **[書き手の性格情報を用いた感情強度推定.](https://doi.org/10.11517/pjsai.JSAI2022.0_4D3GS604)** 人工知能学会第36回全国大会, 2022.
 - Haruya Suzuki, Yuto Miyauchi, Kazuki Akiyama, Tomoyuki Kajiwara, Takashi Ninomiya, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. **[A Japanese Dataset for Subjective and Objective Sentiment Polarity Classification in Micro Blog Domain.](https://aclanthology.org/2022.lrec-1.759/)** In Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp.7022-7028, 2022.
-- 宮内裕人, 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. **[主観と客観の感情極性分類のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-13.pdf)** 言語処理学会第28回年次大会, pp.1495-1499, 2022.
+- **【若手奨励賞】** 宮内裕人, 鈴木陽也, 秋山和輝, 梶原智之, 二宮崇, 武村紀子, 中島悠太, 長原一. **[主観と客観の感情極性分類のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH3-13.pdf)** 言語処理学会第28回年次大会, pp.1495-1499, 2022.
 - Tomoyuki Kajiwara, Chenhui Chu, Noriko Takemura, Yuta Nakashima, Hajime Nagahara. **[WRIME: A New Dataset for Emotional Intensity Estimation with Subjective and Objective Annotations.](https://aclanthology.org/2021.naacl-main.169/)** In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021), pp.2095-2104, 2021.
 - 梶原智之, Chenhui Chu, 武村紀子, 中島悠太, 長原一. **[主観感情と客観感情の強度推定のための日本語データセット.](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P3-3.pdf)** 言語処理学会第27回年次大会, pp.523-527, 2021.
 
@@ -48,7 +51,7 @@
 
 ## 連絡先
 
-- [梶原 智之](https://sites.google.com/site/moguranosenshi/)（愛媛大学 大学院理工学研究科 講師）
+- [梶原 智之](https://sites.google.com/site/moguranosenshi/)（愛媛大学 大学院理工学研究科 准教授 ／ 大阪大学 D3センター 特任准教授）
 - [中島 悠太](https://www.n-yuta.jp/)（大阪大学 D3センター 教授）
 
 sentiment-dataset *at* is.ids.osaka-u.ac.jp
